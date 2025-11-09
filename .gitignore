@@ -1,0 +1,6 @@
+data/
+*.bam
+*.bed
+*.fastq
+.ipynb_checkpoints/
+.venv/
